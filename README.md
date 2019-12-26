@@ -26,6 +26,7 @@ The other steps are as follow:-
 5 - Fit the model
 
 6 - Find the confusion Matrix
+![GitHub Logo](https://github.com/saitama8mychicken/Text-Classification/blob/master/confusion.csv)
 
 8 - Plot the ROC Curve
 
