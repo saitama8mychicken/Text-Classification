@@ -28,3 +28,5 @@ The other steps are as follow:-
 6 - Find the confusion Matrix
 
 8 - Plot the ROC Curve
+
+![GitHub Logo](https://github.com/saitama8mychicken/Text-Classification/blob/master/roc_curve.png)
